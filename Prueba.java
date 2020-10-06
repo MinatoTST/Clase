@@ -1,5 +1,5 @@
-class HolaMundo {
+class Name {
     public static void main (String args[]){
-       System.out.println("He sido modificado y guardado");
+       System.out.println("Pedro García");
    }
 }
